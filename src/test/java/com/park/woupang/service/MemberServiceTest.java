@@ -1,4 +1,4 @@
-package com.park.woupang.Service;
+package com.park.woupang.service;
 
 import com.park.woupang.dto.MemberFormDto;
 import com.park.woupang.entity.Member;

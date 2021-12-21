@@ -1,6 +1,6 @@
 package com.park.woupang.controller;
 
-import com.park.woupang.Service.MemberService;
+import com.park.woupang.service.MemberService;
 import com.park.woupang.dto.MemberFormDto;
 import com.park.woupang.entity.Member;
 import lombok.RequiredArgsConstructor;

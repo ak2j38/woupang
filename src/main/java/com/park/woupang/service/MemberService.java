@@ -1,4 +1,4 @@
-package com.park.woupang.Service;
+package com.park.woupang.service;
 
 import com.park.woupang.entity.Member;
 import com.park.woupang.repository.MemberRepository;
